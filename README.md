@@ -1,3 +1,9 @@
+React & Animations
+
+![image1](https://github.com/chandnijp/react-working-with-animations/blob/master/src/assets/images/react-animations(1).png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
